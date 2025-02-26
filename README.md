@@ -12,11 +12,11 @@
 
 后端：保证你的python环境安装了flask和相关的东西（报错会有提示，pycharm会给你装）
 
-运行run.py，就可以启动后端
+运行EditEnd目录下的run.py，就可以启动后端
 
 ---
 
-前端:打开front目录下的package.json，你的专业版pycharm右下角会提示npm install
+前端:打开EditFront/front目录下的package.json，你的专业版pycharm右下角会提示npm install
 
 安装依赖后你的package.json的第六行左边会出现三角符号（也就是运行标志）点击一下就启动前端了
 
